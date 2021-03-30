@@ -21459,7 +21459,7 @@ a {
 }
 
 .html-embed-28az-copy {
-  position: absolute;
+  position: fixed;
   left: 0.5vw;
   top: 10px;
   right: 0.5vw;
@@ -22819,6 +22819,55 @@ a {
   border: 1px none #000;
 }
 
+.grid-227 {
+  display: none;
+}
+
+.div-block-185 {
+  position: relative;
+  width: 100%;
+  height: 55px;
+  border: 1px none #000;
+}
+
+.button-89mjn-copylmk-copy {
+  position: relative;
+  height: 55px;
+  min-width: 100%;
+  border-bottom: 4px solid #1d77f2;
+  background-color: #fff;
+}
+
+.button-89mjn-copylmk {
+  position: relative;
+  height: 55px;
+  min-width: 100%;
+  border-bottom: 4px solid #1d77f2;
+  background-color: transparent;
+}
+
+.image-2137 {
+  position: relative;
+  height: 55px;
+}
+
+.container-302372 {
+  background-color: #fff;
+}
+
+.div-block-186 {
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  right: auto;
+  bottom: auto;
+  height: 55px;
+  max-width: 20vw;
+  min-width: 20vw;
+  padding-left: 0vw;
+  background-color: #2ca83f;
+}
+
 @media screen and (max-width: 991px) {
   .grid-4azazhjhu {
     margin-right: 10px;
@@ -23198,6 +23247,13 @@ a {
     right: 10px;
   }
 
+  .html-embed-24aazazaz {
+    left: 0%;
+    top: auto;
+    right: auto;
+    bottom: 0%;
+  }
+
   .nav-menu-12 {
     position: fixed;
     left: 0%;
@@ -23220,6 +23276,33 @@ a {
     min-width: 100%;
   }
 
+  .div-block-124asdfg {
+    position: absolute;
+    left: 0%;
+    top: 55px;
+    right: auto;
+    bottom: auto;
+    overflow: scroll;
+    height: 300vw;
+    max-height: 300vh;
+    max-width: 400vw;
+    min-width: 400vw;
+  }
+
+  .image-2126asdf-copyawsa {
+    overflow: scroll;
+    height: 100vw;
+    max-width: 100vw;
+    min-width: 100vw;
+  }
+
+  .grid-197 {
+    overflow: auto;
+    height: 300vh;
+    max-width: 400vw;
+    min-width: 400vw;
+  }
+
   .grid-162hjklfvg-copynjhblkjmnbaz {
     left: 10px;
     right: 10px;
@@ -23228,6 +23311,12 @@ a {
   .grid-162hjklfvglk-copy {
     left: 10px;
     right: 10px;
+  }
+
+  .bodyazsgtyhuhjmn-copyfcd {
+    height: 300vw;
+    max-height: 300vw;
+    min-height: 300vw;
   }
 
   .grid-162hjklfvg-copynjhb-copyvgb {
@@ -23259,6 +23348,22 @@ a {
   .grid-162hjklfvg-copynjhblkj-copy {
     left: 10px;
     right: 10px;
+  }
+
+  .div-block-113hbasdf-copyazzazsknlklkjijgvzsxsdf {
+    width: 99vw;
+    max-width: 99vw;
+    min-width: 99vw;
+  }
+
+  .container-302363 {
+    position: relative;
+    top: 55px;
+    display: none;
+  }
+
+  .div-block-163 {
+    top: 55px;
   }
 
   .grid-162hjklfvg-copynjhblkjmnb-copyzz {
@@ -23303,6 +23408,120 @@ a {
     right: auto;
     bottom: auto;
     display: block;
+  }
+
+  .html-embed-24aaz-copy {
+    left: 0%;
+    top: auto;
+    right: auto;
+    bottom: 0%;
+  }
+
+  .html-embed-24aazazaz-copy {
+    left: 0%;
+    top: auto;
+    right: auto;
+    bottom: 0%;
+  }
+
+  .grid-160asghj-dhkdjh-copyawsedauhv-copyasdfg-copyasfjhgf-copy {
+    width: 100vw;
+    min-width: 100vw;
+  }
+
+  .container-302369 {
+    top: 55px;
+    max-width: 100vw;
+    padding-right: 100vw;
+  }
+
+  .html-embed-28az-copy {
+    position: absolute;
+    top: 5px;
+    overflow: visible;
+    width: 99vw;
+  }
+
+  .div-block-113hbasdfasdfc-copymn-copy {
+    width: 99vw;
+  }
+
+  .div-block-113hbasdfasdfc-copymnaq-copy {
+    width: 99vw;
+  }
+
+  .div-block-113hbasdfasdfc-copymnaqsz-copy {
+    width: 99vw;
+  }
+
+  .grid-227 {
+    position: relative;
+    left: 0%;
+    top: auto;
+    right: 0%;
+    bottom: auto;
+    display: -ms-grid;
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    -ms-grid-columns: minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr);
+    grid-template-columns: minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr);
+    -ms-grid-rows: 55px;
+    grid-template-rows: 55px;
+    border: 1px none #000;
+  }
+
+  .button-89mjn-copylmk-copy {
+    position: relative;
+    width: 100%;
+    height: 55px;
+    padding: 0px;
+    border-bottom: 4px solid #1d77f2;
+    background-color: #fff;
+  }
+
+  .button-89mjn-copylmk {
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    right: 0%;
+    bottom: auto;
+    width: 100%;
+    height: 55px;
+    padding: 0px;
+    border-bottom: 0px solid #1d77f2;
+    background-color: transparent;
+  }
+
+  .image-2137 {
+    position: relative;
+    left: 0%;
+    top: 0%;
+    right: 0%;
+    bottom: auto;
+    height: 35px;
+    margin-top: 10px;
+    margin-left: 0px;
+  }
+
+  .container-302372 {
+    position: fixed;
+    left: 0%;
+    top: 0%;
+    right: 0%;
+    bottom: auto;
+  }
+
+  .div-block-186 {
+    position: fixed;
+    left: 0%;
+    top: 55px;
+    right: 0%;
+    bottom: auto;
+    max-width: 100vw;
+    min-width: 100vw;
+    background-color: #fff;
   }
 }
 
