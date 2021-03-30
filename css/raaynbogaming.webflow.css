@@ -23279,7 +23279,7 @@ a {
   .div-block-124asdfg {
     position: absolute;
     left: 0%;
-    top: 55px;
+    top: 0px;
     right: auto;
     bottom: auto;
     overflow: scroll;
@@ -23388,8 +23388,8 @@ a {
     min-height: 300vw;
     min-width: 400vw;
     grid-auto-columns: minmax(10vw, 10vw);
-    -ms-grid-columns: minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw);
-    grid-template-columns: minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw);
+    -ms-grid-columns: minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw);
+    grid-template-columns: minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw);
     -ms-grid-rows: minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw);
     grid-template-rows: minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw) minmax(10vw, 10vw);
   }
@@ -23415,7 +23415,7 @@ a {
   .div-block-163 {
     position: relative;
     left: 0vw;
-    top: 55px;
+    top: 0px;
     overflow: scroll;
     min-height: 300vw;
     min-width: 400vw;
@@ -23429,7 +23429,7 @@ a {
   .container-302366 {
     position: absolute;
     left: 0%;
-    top: 55px;
+    top: 0px;
     right: 0%;
     bottom: auto;
     overflow: visible;
@@ -23544,9 +23544,9 @@ a {
   }
 
   .grid-227 {
-    position: relative;
-    left: 0%;
-    top: auto;
+    position: absolute;
+    left: auto;
+    top: 0%;
     right: 0%;
     bottom: auto;
     display: -ms-grid;
@@ -23554,8 +23554,8 @@ a {
     grid-auto-columns: 1fr;
     grid-column-gap: 0px;
     grid-row-gap: 0px;
-    -ms-grid-columns: minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr);
-    grid-template-columns: minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr);
+    -ms-grid-columns: 55px;
+    grid-template-columns: 55px;
     -ms-grid-rows: 55px;
     grid-template-rows: 55px;
     border: 1px none #000;
@@ -23567,7 +23567,7 @@ a {
     height: 55px;
     padding: 0px;
     border-bottom: 4px solid #1d77f2;
-    background-color: #fff;
+    background-color: transparent;
   }
 
   .button-89mjn-copylmk {
@@ -23596,10 +23596,13 @@ a {
 
   .container-302372 {
     position: fixed;
-    left: 0%;
+    left: auto;
     top: 0%;
     right: 0%;
     bottom: auto;
+    height: 55px;
+    padding-right: 55px;
+    background-color: #fff;
   }
 
   .div-block-186 {
