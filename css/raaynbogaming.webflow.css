@@ -21524,7 +21524,7 @@ a {
   position: relative;
   top: 40px;
   margin-top: 0px;
-  font-family: Burbankbigcondensed, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #000;
   font-size: 30px;
   line-height: 45px;
@@ -21538,7 +21538,7 @@ a {
 .heading-36az-copymnzsgvf {
   position: relative;
   top: 40px;
-  font-family: Burbankbigcondensed, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #fff;
   font-size: 65px;
   line-height: 45px;
@@ -21553,7 +21553,7 @@ a {
   position: relative;
   top: 50px;
   margin-top: 20px;
-  font-family: Burbankbigcondensed, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #000;
   font-size: 90px;
   line-height: 45px;
@@ -21607,9 +21607,10 @@ a {
 
 .div-block-182azs {
   position: relative;
+  overflow: hidden;
   height: 750px;
   max-width: 100%;
-  background-image: linear-gradient(165deg, #570ca5, #9c0c74 69%, #e700fe);
+  background-image: linear-gradient(165deg, #b3b3ab, #bfbfb7 69%, #fff);
 }
 
 .heading-36 {
@@ -21622,9 +21623,9 @@ a {
   margin-left: 0px;
   padding-right: 40px;
   padding-left: 40px;
-  font-family: Burbankbigcondensed, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #fff;
-  font-size: 40px;
+  font-size: 25px;
 }
 
 .grid-225az-copy {
@@ -21642,9 +21643,10 @@ a {
 
 .div-block-182azs-copy {
   position: relative;
+  overflow: hidden;
   height: 450px;
   max-width: 100%;
-  background-image: linear-gradient(165deg, #570ca5, #9c0c74 69%, #e700fe);
+  background-image: linear-gradient(165deg, #b1b0a4, #cbcbc4 69%, #fff);
 }
 
 .grid-224az-copy {
@@ -22401,7 +22403,7 @@ a {
 
 .tab-pane-tab-1-3 {
   height: auto;
-  min-height: 4000px;
+  min-height: 2000px;
   background-color: transparent;
 }
 
@@ -22434,12 +22436,12 @@ a {
 .tab-link-tab-1-4.w--current {
   height: 75px;
   min-width: 22vw;
-  margin-right: 0.5vw;
+  margin-right: 2vw;
   margin-left: 3vw;
   border-radius: 5px;
-  background-color: #960102;
+  background-color: transparent;
   font-family: Montserrat, sans-serif;
-  color: #fff;
+  color: #000;
   font-size: 35px;
   line-height: 55px;
   font-weight: 700;
@@ -22449,11 +22451,11 @@ a {
 .tab-link-tab-2-3 {
   height: 75px;
   min-width: 22vw;
-  margin-right: 0.5vw;
+  margin-right: 2vw;
   border-radius: 5px;
-  background-color: #000;
+  background-color: transparent;
   font-family: Montserrat, sans-serif;
-  color: #fff;
+  color: #000;
   font-size: 35px;
   line-height: 55px;
   font-weight: 700;
@@ -22463,11 +22465,11 @@ a {
 .tab-link-tab-3-5 {
   height: 75px;
   min-width: 22vw;
-  margin-right: 0.5vw;
+  margin-right: 2vw;
   border-radius: 5px;
-  background-color: #000;
+  background-color: transparent;
   font-family: Montserrat, sans-serif;
-  color: #fff;
+  color: #000;
   font-size: 35px;
   line-height: 55px;
   font-weight: 700;
@@ -23292,7 +23294,9 @@ a {
   width: 22vw;
   height: 75px;
   border-radius: 5px;
+  background-color: transparent;
   font-family: Montserrat, sans-serif;
+  color: #000;
   font-size: 35px;
   line-height: 55px;
   font-weight: 700;
@@ -23496,6 +23500,151 @@ a {
   min-width: 100%;
   border-bottom: 4px solid #1d77f2;
   background-color: #fff;
+}
+
+.dcf {
+  height: 55px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-size: 14px;
+  line-height: 57px;
+}
+
+.tabs-3-copy4 {
+  top: -75px;
+}
+
+.grid-233 {
+  position: absolute;
+  left: 15vw;
+  top: 20px;
+  right: 15vw;
+  bottom: auto;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  -ms-grid-columns: 1fr 2fr;
+  grid-template-columns: 1fr 2fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.div-block-205 {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  background-color: #fff;
+}
+
+.image-2147 {
+  position: relative;
+  height: 100%;
+  min-height: 100%;
+  padding: 10px;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.dddd {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  background-color: transparent;
+}
+
+.grid-234 {
+  position: absolute;
+  left: 15vw;
+  top: 640px;
+  right: 15vw;
+  bottom: auto;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  -ms-grid-columns: 1fr;
+  grid-template-columns: 1fr;
+}
+
+.dddd-copydcf {
+  position: relative;
+  width: 100%;
+  height: 100px;
+  border-bottom: 1px solid rgba(134, 134, 134, 0.2);
+  background-color: transparent;
+}
+
+.dddd-copydcf-copydf {
+  position: relative;
+  width: 100%;
+  height: 100px;
+  border-bottom: 1px none rgba(134, 134, 134, 0.2);
+  background-color: #fff;
+}
+
+.button-95 {
+  position: relative;
+  height: 100px;
+  min-width: 100%;
+  background-color: transparent;
+  font-family: Montserrat, sans-serif;
+  color: #1de2aa;
+  font-size: 30px;
+  line-height: 80px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.button-95-copylkmn {
+  position: relative;
+  height: 100px;
+  min-width: 100%;
+  background-color: transparent;
+  font-family: Montserrat, sans-serif;
+  color: #1de2aa;
+  font-size: 30px;
+  line-height: 80px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.image-2148 {
+  position: relative;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  height: 100%;
+  -o-object-fit: contain;
+  object-fit: contain;
+}
+
+.grid-235 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  grid-auto-columns: 2vw;
+  grid-auto-rows: 2vw;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  -ms-grid-columns: 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw;
+  grid-template-columns: 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw;
+  -ms-grid-rows: 2vw;
+  grid-template-rows: 2vw;
+}
+
+.div-block-206 {
+  position: relative;
+  width: 2vw;
+  height: 2vw;
+  max-height: 2vw;
+  max-width: 2vw;
+  min-height: 2vw;
+  min-width: 2vw;
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: rgba(95, 95, 92, 0.4);
 }
 
 @media screen and (max-width: 991px) {
@@ -24210,16 +24359,19 @@ a {
     min-width: auto;
     margin-right: 20px;
     margin-left: 20px;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
   }
 
   .div-block-182azs {
     top: 0px;
+    height: 450px;
   }
 
   .grid-225az-copy {
     position: absolute;
     left: 0%;
-    top: 1590px;
+    top: 1760px;
     right: 0%;
     bottom: auto;
     display: -ms-grid;
@@ -24247,9 +24399,80 @@ a {
 
   .slideraz-copyzl {
     position: absolute;
-    top: 3470px;
+    top: 3640px;
     max-width: 100%;
     min-width: 100%;
+  }
+
+  .grid-224 {
+    position: relative;
+    padding-right: 3vw;
+    padding-left: 3vw;
+  }
+
+  .div-block-183 {
+    position: relative;
+    left: 0vw;
+    top: 0%;
+    right: auto;
+    bottom: auto;
+  }
+
+  .image-2133az {
+    margin-left: 3vw;
+  }
+
+  .grid-226 {
+    top: 0px;
+  }
+
+  .button-90zzs {
+    min-width: 94vw;
+    font-size: 20px;
+  }
+
+  .button-91 {
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    right: auto;
+    bottom: auto;
+  }
+
+  .tabs-3 {
+    top: 70px;
+  }
+
+  .tab-link-tab-1-4.w--current {
+    min-width: 100%;
+    margin-right: 0vw;
+    margin-bottom: 5px;
+    margin-left: 0vw;
+    padding-left: 30px;
+    font-size: 35px;
+    text-align: left;
+  }
+
+  .tab-link-tab-2-3 {
+    width: 22vw;
+    min-width: 100%;
+    margin-bottom: 5px;
+    text-align: left;
+  }
+
+  .tab-link-tab-3-5 {
+    width: 22vw;
+    min-width: 100%;
+    margin-bottom: 5px;
+    text-align: left;
+  }
+
+  .tabs-menu-4 {
+    position: relative;
+    left: 3vw;
+    right: 3vw;
+    max-width: 94vw;
+    min-width: auto;
   }
 
   .div-block-113hbasdfasdfc-copymn-copy {
@@ -24347,6 +24570,11 @@ a {
     top: 5px;
     overflow: visible;
     width: 99vw;
+  }
+
+  .tab-link-tab-4-2 {
+    min-width: 100%;
+    margin-bottom: 5px;
   }
 
   .div-block-202 {
@@ -24454,6 +24682,52 @@ a {
 
   .button-89mjn-copylmk-copy-2.w--current {
     background-color: transparent;
+  }
+
+  .text-block-12 {
+    font-size: 20px;
+  }
+
+  .dcf {
+    position: relative;
+    left: auto;
+    top: 0%;
+    right: 0%;
+    bottom: auto;
+  }
+
+  .text-block-13 {
+    font-size: 20px;
+  }
+
+  .text-block-14 {
+    font-size: 20px;
+  }
+
+  .text-block-15 {
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .tabs-3-copy4 {
+    top: 70px;
+  }
+
+  .grid-235 {
+    grid-auto-rows: 10vw;
+    -ms-grid-columns: 10vw 10vw 10vw 10vw 10vw 10vw 10vw 10vw 10vw 10vw;
+    grid-template-columns: 10vw 10vw 10vw 10vw 10vw 10vw 10vw 10vw 10vw 10vw;
+    -ms-grid-rows: 10vw;
+    grid-template-rows: 10vw;
+  }
+
+  .div-block-206 {
+    width: 10vw;
+    height: 10vw;
+    max-height: 10vw;
+    max-width: 10vw;
+    min-height: 10vw;
+    min-width: 10vw;
   }
 }
 
