@@ -23870,7 +23870,7 @@ a {
 .grid-239-copykj {
   position: absolute;
   left: -20vw;
-  top: -18.4vh;
+  top: -11.7vw;
   right: 0%;
   bottom: auto;
   grid-column-gap: 0px;
@@ -24493,7 +24493,7 @@ a {
   .container-302366 {
     position: absolute;
     left: 0%;
-    top: 55px;
+    top: 0px;
     right: 0%;
     bottom: auto;
     overflow: visible;
@@ -25001,8 +25001,51 @@ a {
     min-width: 10vw;
   }
 
+  .div-block-211 {
+    left: 0vw;
+    top: 0px;
+    max-height: 100vh;
+    min-height: 100vh;
+  }
+
+  .grid-239 {
+    height: auto;
+    min-width: 300vw;
+    -ms-grid-columns: 100vw 100vw;
+    grid-template-columns: 100vw 100vw;
+  }
+
+  .div-block-212 {
+    width: 100vw;
+    min-width: 100vw;
+  }
+
+  .grid-239-copykj {
+    left: -50vw;
+    top: -29.1vw;
+    overflow: hidden;
+    height: auto;
+    min-width: 300vw;
+    -ms-grid-columns: 100vw 100vw 100vw;
+    grid-template-columns: 100vw 100vw 100vw;
+  }
+
   .button-92jnh-copy-copydfgv {
     display: none;
+  }
+
+  .div-block-213 {
+    left: 0vw;
+    top: 55px;
+    max-height: 100vh;
+    max-width: 300vw;
+    min-width: 300vw;
+    -o-object-fit: contain;
+    object-fit: contain;
+  }
+
+  .html-embed-28 {
+    overflow: auto;
   }
 }
 
