@@ -23469,6 +23469,35 @@ a {
   font-weight: 600;
 }
 
+.container-302373 {
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  display: none;
+  height: 55px;
+  max-width: 100%;
+  background-color: #fff;
+}
+
+.grid-232 {
+  display: none;
+}
+
+.image-2146 {
+  position: relative;
+  height: 55px;
+}
+
+.button-89mjn-copylmk-copy-2 {
+  position: relative;
+  height: 55px;
+  min-width: 100%;
+  border-bottom: 4px solid #1d77f2;
+  background-color: #fff;
+}
+
 @media screen and (max-width: 991px) {
   .grid-4azazhjhu {
     margin-right: 10px;
@@ -23894,7 +23923,7 @@ a {
   .div-block-124asdfg {
     position: absolute;
     left: 0%;
-    top: 0px;
+    top: 55px;
     right: auto;
     bottom: auto;
     overflow: scroll;
@@ -24030,7 +24059,7 @@ a {
   .div-block-163 {
     position: relative;
     left: 0vw;
-    top: 0px;
+    top: 55px;
     overflow: scroll;
     min-height: 300vw;
     min-width: 400vw;
@@ -24044,7 +24073,7 @@ a {
   .container-302366 {
     position: absolute;
     left: 0%;
-    top: 0px;
+    top: 55px;
     right: 0%;
     bottom: auto;
     overflow: visible;
@@ -24149,6 +24178,7 @@ a {
   .sliderazzssdf {
     position: absolute;
     width: 100%;
+    max-width: 100%;
   }
 
   .heading-36az {
@@ -24176,6 +24206,7 @@ a {
     top: 820px;
     right: 0%;
     bottom: auto;
+    max-width: 100%;
     min-width: auto;
     margin-right: 20px;
     margin-left: 20px;
@@ -24193,6 +24224,7 @@ a {
     bottom: auto;
     display: -ms-grid;
     display: grid;
+    max-width: 100%;
     min-width: auto;
     margin-right: 20px;
     margin-left: 20px;
@@ -24289,6 +24321,7 @@ a {
     top: 0%;
     right: 0%;
     bottom: auto;
+    display: none;
     height: 55px;
     padding-right: 55px;
     background-color: #fff;
@@ -24305,6 +24338,10 @@ a {
     background-color: #fff;
   }
 
+  .button-92jnh-copy {
+    display: none;
+  }
+
   .html-embed-28az-copyazs-copy {
     position: absolute;
     top: 5px;
@@ -24315,7 +24352,7 @@ a {
   .div-block-202 {
     top: 0px;
     display: block;
-    height: 200px;
+    height: 20vh;
   }
 
   .image-2144 {
@@ -24355,12 +24392,68 @@ a {
     text-align: center;
   }
 
+  .grid-231 {
+    top: 40px;
+    height: 80vh;
+    -ms-grid-rows: 40px 40px 40px 40px 40px 40px;
+    grid-template-rows: 40px 40px 40px 40px 40px 40px;
+  }
+
   .left-arrow-3 {
     display: none;
   }
 
   .right-arrow-3 {
     display: none;
+  }
+
+  .container-302373 {
+    display: block;
+  }
+
+  .grid-232 {
+    position: relative;
+    left: 0%;
+    top: auto;
+    right: 0%;
+    bottom: auto;
+    display: -ms-grid;
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    -ms-grid-columns: minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr);
+    grid-template-columns: minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr) minmax(auto, 1fr);
+    -ms-grid-rows: 55px;
+    grid-template-rows: 55px;
+    border: 1px none #000;
+  }
+
+  .image-2146 {
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    right: 0%;
+    bottom: auto;
+    height: 100%;
+    min-width: 100%;
+    margin-top: 0px;
+    margin-left: 0px;
+    -o-object-fit: cover;
+    object-fit: cover;
+  }
+
+  .button-89mjn-copylmk-copy-2 {
+    position: relative;
+    width: 100%;
+    height: 55px;
+    padding: 0px;
+    border-bottom: 4px solid #1d77f2;
+    background-color: transparent;
+  }
+
+  .button-89mjn-copylmk-copy-2.w--current {
+    background-color: transparent;
   }
 }
 
