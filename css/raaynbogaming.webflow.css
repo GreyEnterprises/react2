@@ -25037,6 +25037,7 @@ a {
   .div-block-213 {
     left: 0vw;
     top: 55px;
+    display: none;
     max-height: 100vh;
     max-width: 300vw;
     min-width: 300vw;
@@ -25045,6 +25046,7 @@ a {
   }
 
   .html-embed-28 {
+    left: -100vw;
     overflow: auto;
   }
 }
