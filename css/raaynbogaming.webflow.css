@@ -25011,23 +25011,23 @@ a {
   .grid-239 {
     height: auto;
     min-width: 300vw;
-    -ms-grid-columns: 100vw 100vw;
-    grid-template-columns: 100vw 100vw;
+    -ms-grid-columns: 150vw 150vw;
+    grid-template-columns: 150vw 150vw;
   }
 
   .div-block-212 {
-    width: 100vw;
-    min-width: 100vw;
+    width: 150vw;
+    min-width: 150vw;
   }
 
   .grid-239-copykj {
-    left: -50vw;
-    top: -29.1vw;
+    left: -75vw;
+    top: -43.7vw;
     overflow: hidden;
     height: auto;
-    min-width: 300vw;
-    -ms-grid-columns: 100vw 100vw 100vw;
-    grid-template-columns: 100vw 100vw 100vw;
+    min-width: 450vw;
+    -ms-grid-columns: 150vw 150vw 150vw;
+    grid-template-columns: 150vw 150vw 150vw;
   }
 
   .button-92jnh-copy-copydfgv {
