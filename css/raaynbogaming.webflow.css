@@ -9173,7 +9173,7 @@ a {
 .error-message {
   position: absolute;
   left: 0%;
-  top: 400px;
+  top: 350px;
   right: 0%;
   bottom: auto;
   margin-right: 20px;
@@ -22463,6 +22463,7 @@ a {
 .tab-link-tab-3-5 {
   height: 75px;
   min-width: 22vw;
+  margin-right: 0.5vw;
   border-radius: 5px;
   background-color: #000;
   font-family: Montserrat, sans-serif;
@@ -22471,6 +22472,10 @@ a {
   line-height: 55px;
   font-weight: 700;
   text-align: center;
+}
+
+.tab-link-tab-3-5.w--current {
+  margin-right: 0.5vw;
 }
 
 .tabs-menu-4 {
@@ -23283,6 +23288,187 @@ a {
   background-color: #fff;
 }
 
+.tab-link-tab-4-2 {
+  width: 22vw;
+  height: 75px;
+  border-radius: 5px;
+  font-family: Montserrat, sans-serif;
+  font-size: 35px;
+  line-height: 55px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.div-block-202 {
+  position: absolute;
+  top: 55px;
+  display: none;
+  height: 150px;
+  min-width: 100%;
+}
+
+.image-2144 {
+  position: relative;
+  height: 150px;
+  min-width: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.grid-230 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  display: -ms-grid;
+  display: grid;
+  height: 80px;
+  min-width: 100%;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+}
+
+.div-block-203 {
+  position: relative;
+  height: 80px;
+  min-width: 100%;
+  border: 1px none #000;
+}
+
+.image-2145 {
+  position: relative;
+  height: 80px;
+  min-width: 100%;
+  -o-object-fit: contain;
+  object-fit: contain;
+}
+
+.button-93 {
+  position: relative;
+  height: 40px;
+  min-width: 100%;
+  border-radius: 5px;
+  background-color: #1d77f2;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  text-align: center;
+}
+
+.div-block-203dcs-copyfcd {
+  position: relative;
+  width: 100%;
+  height: 150px;
+  min-height: 40px;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.div-block-203dcs {
+  position: relative;
+  width: 100%;
+  height: 40px;
+  min-height: 40px;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.button-87-copydx {
+  position: relative;
+  height: 40px;
+  min-width: 100%;
+  border-radius: 5px;
+  background-color: transparent;
+  font-family: Montserrat, sans-serif;
+  color: #1d77f2;
+  font-weight: 600;
+}
+
+.text-field-17 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  width: 100%;
+  height: 40px;
+  max-width: 100%;
+  min-width: 100%;
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-family: Montserrat, sans-serif;
+}
+
+.button-87-copyfghbv {
+  position: relative;
+  height: 40px;
+  min-width: 100%;
+  border-radius: 5px;
+  background-color: #2ca83f;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  text-align: center;
+}
+
+.div-block-204 {
+  height: 100px;
+  border: 1px none #000;
+}
+
+.grid-231 {
+  position: relative;
+  top: 20px;
+  grid-column-gap: 0px;
+  grid-row-gap: 20px;
+  -ms-grid-columns: 20px 1fr 20px;
+  grid-template-columns: 20px 1fr 20px;
+  -ms-grid-rows: auto auto auto;
+  grid-template-rows: auto auto auto;
+}
+
+.text-field-18 {
+  position: relative;
+  height: 40px;
+  max-width: none;
+  min-width: auto;
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-family: Montserrat, sans-serif;
+}
+
+.button-94 {
+  position: relative;
+  height: 40px;
+  min-width: 100%;
+  border-radius: 5px;
+  background-color: #1d77f2;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+}
+
+.button-87-copyfghbv-2 {
+  position: relative;
+  height: 40px;
+  min-width: 100%;
+  border-radius: 5px;
+  background-color: #2ca83f;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+}
+
 @media screen and (max-width: 991px) {
   .grid-4azazhjhu {
     margin-right: 10px;
@@ -23545,6 +23731,20 @@ a {
 
   .paragraph-3 {
     margin-right: 0%;
+  }
+
+  .error-message {
+    top: 350px;
+  }
+
+  .container-10271 {
+    top: 200px;
+    background-color: transparent;
+  }
+
+  .loading-screen {
+    position: absolute;
+    margin-top: 0px;
   }
 
   .html-embed-16asg {
@@ -23946,6 +24146,80 @@ a {
     width: 99vw;
   }
 
+  .sliderazzssdf {
+    position: absolute;
+    width: 100%;
+  }
+
+  .heading-36az {
+    top: 5px;
+  }
+
+  .heading-36az-copymnzsgvf {
+    top: 10px;
+    line-height: 60px;
+  }
+
+  .heading-36az-copymn-copysdf {
+    top: 0px;
+    line-height: 73px;
+  }
+
+  .grid-224az {
+    -ms-grid-columns: 0.5fr 2fr 0.5fr;
+    grid-template-columns: 0.5fr 2fr 0.5fr;
+  }
+
+  .grid-225azzsd {
+    position: absolute;
+    left: 0%;
+    top: 820px;
+    right: 0%;
+    bottom: auto;
+    min-width: auto;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+
+  .div-block-182azs {
+    top: 0px;
+  }
+
+  .grid-225az-copy {
+    position: absolute;
+    left: 0%;
+    top: 1590px;
+    right: 0%;
+    bottom: auto;
+    display: -ms-grid;
+    display: grid;
+    min-width: auto;
+    margin-right: 20px;
+    margin-left: 20px;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+    -ms-grid-rows: auto;
+    grid-template-rows: auto;
+  }
+
+  .grid-224az-copy {
+    position: absolute;
+    top: 2500px;
+    display: none;
+    -ms-grid-columns: 0.5fr 2fr 0.5fr;
+    grid-template-columns: 0.5fr 2fr 0.5fr;
+  }
+
+  .slideraz-copyzl {
+    position: absolute;
+    top: 3470px;
+    max-width: 100%;
+    min-width: 100%;
+  }
+
   .div-block-113hbasdfasdfc-copymn-copy {
     width: 99vw;
   }
@@ -24036,6 +24310,57 @@ a {
     top: 5px;
     overflow: visible;
     width: 99vw;
+  }
+
+  .div-block-202 {
+    top: 0px;
+    display: block;
+    height: 200px;
+  }
+
+  .image-2144 {
+    height: 100%;
+  }
+
+  .grid-230 {
+    position: absolute;
+    top: 55px;
+    -ms-grid-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    -ms-grid-rows: auto;
+    grid-template-rows: auto;
+  }
+
+  .div-block-203 {
+    position: relative;
+    width: auto;
+    height: 80px;
+    min-width: 100%;
+    border: 1px none #000;
+  }
+
+  .image-2145 {
+    position: relative;
+    height: 80px;
+    min-width: 100%;
+    -o-object-fit: contain;
+    object-fit: contain;
+  }
+
+  .button-93 {
+    text-align: center;
+  }
+
+  .button-87-copyfghbv {
+    text-align: center;
+  }
+
+  .left-arrow-3 {
+    display: none;
+  }
+
+  .right-arrow-3 {
+    display: none;
   }
 }
 
